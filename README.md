@@ -19,3 +19,4 @@ Dans le contexte fictif d'un commerce physique souhaitant déveloper son offre e
     - mise en forme (fusion des données, nouvelles colonnes, segmentation...)
     - analyse (courbe de Lorenz, probabilité conditionnelle, corrélations...)
     
+ 
